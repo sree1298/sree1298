@@ -1,5 +1,5 @@
 # Hello, I'm Sree
-<a href="[https://linkedin.com](https://www.linkedin.com/in/sreeganesh-a/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/sreeganesh-a/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **sree1298/sree1298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
