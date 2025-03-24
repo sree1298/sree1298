@@ -6,9 +6,9 @@ I am a graduate with a profound interest in technology and a dedication to solvi
 
 Completing the Google Cybersecurity Certification led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or a related role.
 
-I have outlined a list of lab projects I have completed and the skills I have developed from completing them.
+I have outlined a list of lab projects I have completed and the skills I have developed from completing them. A more detailed outcome of the project and the skills demonstrated are included at the end of each of the projects.
 
 | Project                                         | Skills         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?tab=t.0">DDoS Incident Report Analysis Lab</a> |  |
-| A | B |
+| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis Lab</a> | Incident Report Writing |
+| <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Log Analysis using Network Protocol Analyser |
