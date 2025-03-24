@@ -10,5 +10,5 @@ I have outlined a list of lab projects I have completed and the skills I have de
 
 | Project                                         | Skills         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis Lab</a> | Incident Report Writing |
+| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Incident Report Writing |
 | <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Log Analysis using Network Protocol Analyser |
