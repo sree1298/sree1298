@@ -12,3 +12,4 @@ I have outlined a list of lab projects I have completed and the skills I have de
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Incident Report Writing |
 | <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Log Analysis using Network Protocol Analyser |
+| <a href="https://docs.google.com/document/d/1J7Bu4YfSnAp2uUkjhOIz7kMoO5tX4uYoo8MoAr1TQK0/edit?usp=sharing">Linux</a> | Reorganising File System and Access Management |
