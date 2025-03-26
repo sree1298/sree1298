@@ -10,6 +10,6 @@ I have outlined a list of lab projects I have completed and the skills I have de
 
 | Project                                         | Skills         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://1drv.ms/w/c/1efc39e3ee2a53e9/EcFTbzJFc49AvB7g0lSvaXsBjKFU2fZtzCBVYQtFa13X5g?e=KEubuB">DDoS Incident Report Analysis</a> | Incident Report Writing |
-| <a href="https://1drv.ms/w/c/1efc39e3ee2a53e9/EU1vI00SNdJDgqHvsVik4I4B1ZkJS66VE_weVlBQs4jvhw?e=PPmWtS">tcpdump Log Analysis</a> | Log Analysis using Network Protocol Analyser |
-| <a href="https://1drv.ms/w/c/1efc39e3ee2a53e9/EScmFIk_LgdMruohXpwGeVQBVCJCQ1xD8_wXvh_aJraxLw?e=GH4LGL">Linux</a> | Reorganising File System and Access Management |
+| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Incident Report Writing |
+| <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Log Analysis using Network Protocol Analyser |
+| <a href="https://docs.google.com/document/d/1J7Bu4YfSnAp2uUkjhOIz7kMoO5tX4uYoo8MoAr1TQK0/edit?usp=sharing">Linux</a> | Reorganising File System and Access Management |
