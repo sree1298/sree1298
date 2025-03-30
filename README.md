@@ -23,7 +23,10 @@ I have outlined a list of lab projects I have completed and the skills I have de
 
 
 ### Network
-
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
 
 ### Endpoint
 
