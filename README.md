@@ -10,12 +10,12 @@ I have outlined a list of lab projects I have completed and the skills I have de
 
 ## Projects
 
-| Project Title                                         | Skills         |
+| Project Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Incident Report Writing |
-| <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Log Analysis Using Network Protocol Analyser |
-| <a href="https://docs.google.com/document/d/1J7Bu4YfSnAp2uUkjhOIz7kMoO5tX4uYoo8MoAr1TQK0/edit?usp=sharing">Linux</a> | Reorganising File System and Access Management |
-| <a href="https://docs.google.com/document/d/1h2Mk1AbS7M8RL_JOaut4-OEq6-_V1SWCgY9XI4Qx_Ao/edit?usp=sharing">SQL - Database Filtering</a> | Using SQL to Retrieve Information on Login Attempts and Outdated Systems |
+| <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Wrote a Simple Incident Report to Improve Company Security |
+| <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Conducted Log Analysis Using Network Protocol Analyser |
+| <a href="https://docs.google.com/document/d/1J7Bu4YfSnAp2uUkjhOIz7kMoO5tX4uYoo8MoAr1TQK0/edit?usp=sharing">Linux</a> | Reorganised the File System and Updated User Access |
+| <a href="https://docs.google.com/document/d/1h2Mk1AbS7M8RL_JOaut4-OEq6-_V1SWCgY9XI4Qx_Ao/edit?usp=sharing">SQL - Database Filtering</a> | Used SQL to Retrieve Information on Login Attempts and Outdated Systems |
 | <a href="https://docs.google.com/document/d/1OKqn_d1oZTcF6FAS-oVcvCCPq-W2W1O-ZKJxpiKiork/edit?usp=sharing">PowerShell and Python - Cryptography and Hashing</a> | Script Writing to Encrypt a File Using Key File and Password Encryption and Generating Hashes for Files to Review Before and After Modification |
 
 
