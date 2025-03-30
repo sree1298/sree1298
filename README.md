@@ -8,7 +8,9 @@ Completing the Google Cybersecurity Certification led me to develop a passion fo
 
 I have outlined a list of lab projects I have completed and the skills I have developed from completing them. A more detailed outcome of the project and the skills demonstrated are included at the end of each of the projects.
 
-| Project                                         | Skills         |
+## Projects
+
+| Project Title                                         | Skills         |
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Incident Report Writing |
 | <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Log Analysis Using Network Protocol Analyser |
@@ -31,7 +33,7 @@ I have outlined a list of lab projects I have completed and the skills I have de
 
 ## Certifications
 <div>
-<img src="[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/professional-certificates/google-cybersecurity)" />
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 
