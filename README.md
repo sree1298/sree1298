@@ -31,7 +31,7 @@ I have outlined a list of lab projects I have completed and the skills I have de
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification?logoColor=White" />
+<img src="[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/professional-certificates/google-cybersecurity)" />
 </div>
 
 
