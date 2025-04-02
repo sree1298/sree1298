@@ -18,6 +18,12 @@ I have outlined a list of lab projects I have completed. A more detailed outcome
 | <a href="https://docs.google.com/document/d/1h2Mk1AbS7M8RL_JOaut4-OEq6-_V1SWCgY9XI4Qx_Ao/edit?usp=sharing">SQL - Database Filtering</a> | Using SQL to Retrieve Information on Login Attempts and Outdated Systems |
 | <a href="https://docs.google.com/document/d/1OKqn_d1oZTcF6FAS-oVcvCCPq-W2W1O-ZKJxpiKiork/edit?usp=sharing">PowerShell and Python - Cryptography and Hashing</a> | Script Writing to Encrypt a File Using Key File and Password Encryption and Generating Hashes for Files to Review Before and After Modification |
 | <a href="https://docs.google.com/document/d/1Kb5rzSymmf8Ho2TJb-55tjRd2M1oDcYgUjcf0GLdxvk/edit?usp=sharing">PASTA Framework Application</a> | Applying the PASTA Threat Model for the Development of a Sneaker App |
+| <a href="">Wireshark and tcpdump</a> | Capturing and Analysing Network Traffic |
+| <a href="">VirusTotal</a> | Using VirusTotal to Investigate an Alert |
+| <a href="">Post-Incident Activity</a> | Writing a Report on a Security incident |
+| <a href="">Suricata</a> | Configuring Suricata to Trigger Alerts |
+
+
 
 
 ## Tools
