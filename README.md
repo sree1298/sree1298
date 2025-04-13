@@ -12,6 +12,7 @@ I have outlined a list of lab projects I have completed. A more detailed outcome
 
 | Project Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
+| <a href="https://docs.google.com/document/d/1do2Kuvu_fIojPBvQBePYm7a8hglTgyUQrOQPWxv_9gc/edit?usp=sharing">Python Project</a> | Network Traffic Analysis Using Suricata, Developing a Regular Expression Pattern for IP Address Extraction, Developing an Algorithm for Access Management |
 | <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Writing a Simple Incident Report to Improve Company Security |
 | <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Conducting Log Analysis Using Network Protocol Analyser |
 | <a href="https://docs.google.com/document/d/1J7Bu4YfSnAp2uUkjhOIz7kMoO5tX4uYoo8MoAr1TQK0/edit?usp=sharing">Linux</a> | Reorganising the File System and Updated User Access |
@@ -20,7 +21,7 @@ I have outlined a list of lab projects I have completed. A more detailed outcome
 | <a href="https://docs.google.com/document/d/1Kb5rzSymmf8Ho2TJb-55tjRd2M1oDcYgUjcf0GLdxvk/edit?usp=sharing">PASTA Framework Application</a> | Applying the PASTA Threat Model for the Development of a Sneaker App |
 | <a href="https://docs.google.com/document/d/1qFgrl9zRoGgGoYWJ3BBQUDrOOYibFkkpmwn2SdEdTIE/edit?usp=sharing">Wireshark and tcpdump</a> | Capturing and Analysing Network Traffic |
 | <a href="https://docs.google.com/document/d/1ThWSo5dSyPNFfSwy7aQX-YRKWEV5NRlYF2WwbA_xuk8/edit?usp=sharing">VirusTotal</a> | Using VirusTotal to Investigate an Alert |
-| <a href="https://docs.google.com/document/d/1uDc7fLs6d9mypHgwllpwF3IjXBm9MbgxFJTsGNKTlrs/edit?usp=sharing">Post-Incident Activity</a> | Writing a Report on a Security incident |
+| <a href="https://docs.google.com/document/d/1uDc7fLs6d9mypHgwllpwF3IjXBm9MbgxFJTsGNKTlrs/edit?usp=sharing">Post-Incident Activity</a> | Writing a Report on a Security Incident |
 | <a href="https://docs.google.com/document/d/1NQ5tRnmBod0YBYmwApKdp3xgDptfKSQ1ShoTro5SRG0/edit?usp=sharing">Suricata</a> | Configuring Suricata to Trigger Alerts |
 
 
