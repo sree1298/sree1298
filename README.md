@@ -32,8 +32,9 @@ I have outlined a list of lab projects I have completed. A more detailed outcome
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-0000FF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-F64600?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-01B309?&style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
 ### Endpoint
