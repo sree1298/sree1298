@@ -2,11 +2,9 @@
 <a href="https://www.linkedin.com/in/sreeganesh-a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a graduate with a profound interest in technology and a dedication to solving problems which has motivated me to transition to the tech industry, gain an entry-level role in cybersecurity and build a long-term career as a Cloud Security Engineer.
+I am a graduate with a profound interest in technology and a dedication to solving problems which has motivated me to further develop my knowledge on cybersecurity. My dedication led me to complete the Google Cybersecurity Certification, completing numerous projects throughout and after using a variety of tools such as tcpdump, Wireshark, and Suricata. As a result, I've developed strong proficiency in Python and the Linux Command-Line Interface, and I am committed to continuously expanding my skillset through a diverse range of projects.
 
-Completing the Google Cybersecurity Certification led me to further develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or a related role.
-
-I have outlined a list of lab projects I have completed. A more detailed outcome of the project and the skills demonstrated are included at the end of each of the projects.
+This page outlines a list of lab projects I have completed, each designed to further develop my cybersecurity knowledge and practical abilities. A more detailed outcome of the project and the skills demonstrated are included at the end of each of the project document.
 
 ## Projects
 
