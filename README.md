@@ -10,6 +10,7 @@ This page outlines a list of lab projects I have completed, each designed to fur
 
 | Project Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
+| <a href="https://docs.google.com/document/d/1XKaczZlDY6edR6KSUQFywNzFzHJdNb2WrNrejw6hZlQ/edit?usp=sharing">Firewall</a> | Developing Firewall Configuration Rules - In Process |
 | <a href="https://docs.google.com/document/d/1do2Kuvu_fIojPBvQBePYm7a8hglTgyUQrOQPWxv_9gc/edit?usp=sharing">Python Project</a> | Network Traffic Analysis Using Suricata, Developing a Regular Expression Pattern for IP Address Extraction, Developing an Algorithm for Access Management |
 | <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Writing a Simple Incident Report to Improve Company Security |
 | <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Conducting Log Analysis Using Network Protocol Analyser |
