@@ -39,9 +39,9 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 
 ## Certifications 🏆
-<div>
-<img src="https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" />
-</div>
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/5cbd3c501f1fa240701aac78309145f8)
+
+
 
 ## GitHub Stats 📈
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sree1298&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
