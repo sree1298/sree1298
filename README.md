@@ -1,12 +1,15 @@
-# Hello, I'm Sree 
+# Hello, I'm Sree👋
 <a href="https://www.linkedin.com/in/sreeganesh-a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a graduate with a profound interest in technology and a dedication to solving problems which has motivated me to further develop my knowledge on cybersecurity. My dedication led me to complete the Google Cybersecurity Certification, completing numerous projects throughout and after using a variety of tools such as tcpdump, Wireshark, and Suricata. As a result, I've developed strong proficiency in Python and the Linux Command-Line Interface, and I am committed to continuously expanding my skillset through a diverse range of projects.
+I am a graduate 🎓 with a profound interest in technology and a dedication to solving problems which has motivated me to further develop my knowledge on cybersecurity. My dedication led me to complete the Google Cybersecurity Certification, completing numerous projects throughout and after using a variety of tools such as tcpdump, Wireshark, and Suricata. As a result, I've developed strong proficiency in Python and the Linux Command-Line Interface, and I am committed to continuously expanding my skillset through a diverse range of projects.
 
-This page outlines a list of lab projects I have completed, each designed to further develop my cybersecurity knowledge and practical abilities. A more detailed outcome of the project and the skills demonstrated are included at the end of each of the project document.
+## Currently Studying 📚
+- Microsoft Azure SC-900
+- Developing a Basic AI Graphical Interface
+- Developing a Simple Firewall Configuration
 
-## Projects
+## Projects 💻
 
 | Project Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
@@ -25,28 +28,22 @@ This page outlines a list of lab projects I have completed, each designed to fur
 | <a href="https://docs.google.com/document/d/1NQ5tRnmBod0YBYmwApKdp3xgDptfKSQ1ShoTro5SRG0/edit?usp=sharing">Suricata</a> | Configuring Suricata to Trigger Alerts |
 
 
+## Tools 🛠️
 
-
-## Tools
-
-
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-0000FF?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-F64600?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-01B309?&style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
-### Endpoint
 
 
-### SIEM
-
-
-## Certifications
+## Certifications 🏆
 <div>
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
+## GitHub Stats 📈
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sree1298&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
