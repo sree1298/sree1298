@@ -13,18 +13,6 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 </a>
 </div>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/sree1298" style="display: flex; align-items: center; margin-right: 15px; text-decoration: none;">
-        <img src="https://content.linkedin.com/content/dam/me/business/en-us/brand/static-assets/vector-images/app/linkedin-in-color-128dp.svg.png" width="30" style="margin-right: 5px;" alt="LinkedIn" />
-        <span style="color: #0077B5; font-weight: bold;">LinkedIn</span>
-    </a>
-    <a href="mailto:sree1298@outlook.com" style="display: flex; align-items: center; margin-right: 15px; text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Outlook_logo_2019.svg/800px-Microsoft_Outlook_logo_2019.svg.png" width="30" style="margin-right: 5px;" alt="Outlook" />
-        <span style="color: #0078D7; font-weight: bold;">Outlook</span>
-    </a>
-</div>
-
-
 
 ## Currently Studying 📚
 - Microsoft Azure SC-900
