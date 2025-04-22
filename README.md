@@ -16,6 +16,7 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 ## Currently Studying 📚
 - Microsoft Azure AZ-900
+- Microsoft Azure SC-900
 - Developing a Basic AI Graphical Interface
 - Developing a Simple Firewall Configuration
 
