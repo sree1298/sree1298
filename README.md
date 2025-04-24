@@ -15,7 +15,7 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 
 ## Currently Studying 📚
-- AWS Fundamentals
+- AWS Cloud Practitioner Essentials
 - AWS SOA CO2
 
 ## Future Goals 🎖️
