@@ -15,6 +15,10 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 
 ## Currently Studying 📚
+- AWS Fundamentals
+- AWS SOA CO2
+
+## Future Goals 🎖️
 - Microsoft Azure AZ-900
 - Microsoft Azure SC-900
 
