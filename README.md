@@ -30,6 +30,7 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 | <a href="https://docs.google.com/document/d/1yMqHLslUT0aMOqi_nhqetmrxj0D2Ji3W5qf4mj9x0yc/edit?usp=sharing">AI Interface</a> | Developing an AI Interface - In Process |
 | <a href="https://docs.google.com/document/d/1XKaczZlDY6edR6KSUQFywNzFzHJdNb2WrNrejw6hZlQ/edit?usp=sharing">Firewall</a> | Developing Firewall Configuration Rules - In Process |
 | <a href="">SQL Projects</a> | SQL Data Analytics - In Process |
+| <a href="">Splunk Dashboard</a> | Developing a Splunk Dashboard - In Process |
 
 ## Upcoming Projects ⏳
 - Using Metasploit with Virtual Box for Ethical Hacking
