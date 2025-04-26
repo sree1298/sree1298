@@ -30,7 +30,7 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 | <a href="https://docs.google.com/document/d/1yMqHLslUT0aMOqi_nhqetmrxj0D2Ji3W5qf4mj9x0yc/edit?usp=sharing">AI Interface</a> | Developing an AI Interface - In Process |
 | <a href="https://docs.google.com/document/d/1XKaczZlDY6edR6KSUQFywNzFzHJdNb2WrNrejw6hZlQ/edit?usp=sharing">Firewall</a> | Developing Firewall Configuration Rules - In Process |
 | <a href="">SQL Projects</a> | SQL Data Analytics - In Process |
-| <a href="">Splunk Dashboard</a> | Developing a Splunk Dashboard - In Process |
+
 
 ## Upcoming Projects ⏳
 - Using Metasploit with Virtual Box for Ethical Hacking
@@ -44,6 +44,7 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 | Project Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
+| <a href="https://docs.google.com/document/d/16JBQa-XnaHCT7OcEuwuo4pqLM7Xwg6AzQ5peA2f3mNE/edit?usp=sharing">Splunk Dashboard</a> | Developing a Splunk Dashboard |
 | <a href="https://docs.google.com/document/d/1do2Kuvu_fIojPBvQBePYm7a8hglTgyUQrOQPWxv_9gc/edit?usp=sharing">Python Project</a> | Network Traffic Analysis Using Suricata, Developing a Regular Expression Pattern for IP Address Extraction, Developing an Algorithm for Access Management |
 | <a href="https://docs.google.com/document/d/1DUMjW_n1oOaGOomaIw5Bw_XUnApxptrRwrAqnBz35ak/edit?usp=sharing">DDoS Incident Report Analysis</a> | Writing a Simple Incident Report to Improve Company Security |
 | <a href="https://docs.google.com/document/d/1Wto17I6KjISbZi-dxqic37HKxYMkTIp3TgRzV5Gb55E/edit?usp=sharing">tcpdump Log Analysis</a> | Conducting Log Analysis Using Network Protocol Analyser |
