@@ -16,9 +16,9 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 ## Currently Studying 📚
 - AWS Cloud Practitioner
-- AWS SOA CO2
 
 ## Future Goals 🎖️
+- AWS SOA CO2
 - AWS Security Specialty
 - Microsoft Azure AZ-900
 - Microsoft Azure SC-900
