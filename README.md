@@ -27,10 +27,12 @@ I am a graduate 🎓 with a profound interest in technology and a dedication to 
 
 | Project Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
+| <a href="https://docs.google.com/document/d/1mz87srFa0SfKkUkGlI--D1fXyb11ZF4pXqNluUYW9IA/edit?usp=sharing">Automating Tasks</a> | Using Python to Demonstrate Automation - In Process |
 | <a href="https://docs.google.com/document/d/1yMqHLslUT0aMOqi_nhqetmrxj0D2Ji3W5qf4mj9x0yc/edit?usp=sharing">AI Interface</a> | Developing an AI Interface - In Process |
 | <a href="https://docs.google.com/document/d/1XKaczZlDY6edR6KSUQFywNzFzHJdNb2WrNrejw6hZlQ/edit?usp=sharing">Firewall</a> | Developing Firewall Configuration Rules - In Process |
 | <a href="https://docs.google.com/document/d/1M7Qqi52Jvi58eejWcaTnXII6KFKtHFrfoCZohuhMeRY/edit?usp=sharing">SQL Project</a> | SQL Data Analytics - In Process |
 
+https://docs.google.com/document/d/1mz87srFa0SfKkUkGlI--D1fXyb11ZF4pXqNluUYW9IA/edit?usp=sharing
 
 ## Upcoming Projects ⏳
 - Using Metasploit with Virtual Box for Ethical Hacking
